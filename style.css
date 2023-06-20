@@ -3,6 +3,24 @@ p{
   
 }
 h1{
-    color:blueviolet;
     text-align:center;
+    font-size: 30px;
+    background-color:darkslategrey
+}
+body{
+    background: size 100%;
+    text-align:center ;
+    font-size: 25px;
+    background-color:darkgray
+
+}
+h2{
+    text-align:center ;
+}
+.imagemacademia {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    max-width: 500px;
 }
